@@ -5,7 +5,7 @@ import requests
 st.set_page_config(page_title="Chloe's Space", page_icon="🚀")
 
 # 1. 安全地获取您的 API Key (我们将通过 Streamlit 后台设置)
-API_KEY = st.secrets["GOOGLE_API_KEY"]
+API_KEY = "AIzaSyBKQO_tJ7EiVAQ8Dq3kC0rOXGKe5ko3xRw"
 
 # 2. 侧边栏装饰
 with st.sidebar:
